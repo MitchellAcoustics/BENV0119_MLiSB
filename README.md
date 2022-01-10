@@ -28,7 +28,7 @@ Tutorial - Time series with sktime
 ### Week 8 - Neural Networks & Deep Learning
 
 ### Week 9 - Case Studies of Machine Learning
-Lecture 1 - Nahid Mojahederi
+Lecture 1 - Nahid Mohajeri
 Lecture 2 - Andrew Mitchell, Predicting urban soundscape perception
 
 ### Week 10 - Module Summary & Mini Hackathon
