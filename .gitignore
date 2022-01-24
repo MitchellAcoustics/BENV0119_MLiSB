@@ -162,3 +162,5 @@ dmypy.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,vscode
+.DS_Store
+Tutorials/Week1/Wk1_Regression_exercise_solved.ipynb
