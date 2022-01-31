@@ -1,0 +1,17 @@
+name: BENV0119
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - sktime
+  - statsmodels
+  - numpy
+  - scipy
+  - seaborn
+  - jupyter
+  - scikit-learn
+  - pandas
+  - openpyxl
+  - python
+prefix: C:\Users\mitch\miniconda3\envs\BENV0119
