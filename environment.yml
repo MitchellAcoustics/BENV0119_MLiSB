@@ -14,4 +14,3 @@ dependencies:
   - pandas
   - openpyxl
   - python
-prefix: C:\Users\mitch\miniconda3\envs\BENV0119
