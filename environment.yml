@@ -1,11 +1,9 @@
 name: BENV0119
 channels:
   - defaults
-  - conda-forge
 dependencies:
   - jupyterlab
   - matplotlib
-  - sktime
   - statsmodels
   - numpy
   - scipy
@@ -15,3 +13,6 @@ dependencies:
   - pandas
   - openpyxl
   - python
+  - sktime-all-extras
+  - pmdarima
+prefix: C:\Users\mitch\miniconda3\envs\BENV0119
